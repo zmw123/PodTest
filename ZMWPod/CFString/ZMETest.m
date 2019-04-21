@@ -9,5 +9,8 @@
 #import "ZMETest.h"
 
 @implementation ZMETest
-
+- (void)test
+    {
+        NSLog(@"testse");
+    }
 @end
